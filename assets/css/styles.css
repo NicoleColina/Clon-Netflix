@@ -266,10 +266,10 @@ a img{
 .billboard-links .playLink img {
     width: 100%;
     height: 100%;
-    margin-left: 0;
+    margin-left: 0px;
     margin-bottom: 1rem;
     margin-right: 1rem;
-    border: 0;
+    border: 0px;
     border-radius: 4px;
 }
 
@@ -279,7 +279,7 @@ a img{
     margin-left: 1rem;
     margin-bottom: 1rem;
     margin-right: 1rem;
-    border: 0;
+    border: 0px;
     border-radius: 4px;
 }
 
